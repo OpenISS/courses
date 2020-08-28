@@ -21,6 +21,8 @@ A WIP.
 
 ## Related Videos ##
 * ISSv2 in Gray Zone Dance Production, https://vimeo.com/121177927
+* 2017 MCCCA Chinese New Year Dance Gala, https://www.youtube.com/watch?v=yjH0S7Otwj4
+* Real-time Motion Capture for Performing Arts and Stage | Serguei Mokhov | TEDxConcordia, https://www.youtube.com/watch?v=YgwnEmHFwI8
 
 ## Additional Materials ##
 * [OpenISS](https://github.com/OpenISS/OpenISS)
